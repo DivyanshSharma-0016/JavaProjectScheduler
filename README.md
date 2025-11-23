@@ -32,6 +32,7 @@ The project is designed to run directly from the command line on any system with
     ```bash
     java -cp src com.scheduler.main.Main
     ```
+    Added a graceful shutdown mechanism.
 
 ## Instructions for Testing
 The project includes automated logic to test key functional and non-functional requirements.
@@ -42,4 +43,5 @@ The project includes automated logic to test key functional and non-functional r
 
 ## Screenshots
 *(Note: The actual console output screenshot is included in the Project Report PDF for evaluation.)*
+
 
